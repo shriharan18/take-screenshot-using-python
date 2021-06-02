@@ -1,4 +1,4 @@
-# This code was written by Shreharan for the Youtube Channel Stark Intelligence
+# This code was written by Shreeharan for the Youtube Channel Stark Intelligence
 import pyautogui        # importing module
 import tkinter as tk
 from tkinter import filedialog
